@@ -18,8 +18,8 @@ This app takes the following 9 input parameters:
 8)ISI (Initial Spread Index)
 9)BUI (Build-Up Index)
 
-Model: Linear Regression
-Preprocessing: StandardScaler
+Model: Linear Regression  #
+Preprocessing: StandardScaler #
 Libraries Used: sklearn, numpy, pandas, flask, gunicorn
 
 Future Improvements:-
