@@ -59,3 +59,6 @@ Deployment: Render, Gunicorn
 🗺️ Integrate map-based display of forest zones
 
 💡 Improve prediction accuracy with advanced ML models
+
+
+
