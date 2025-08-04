@@ -1,64 +1,64 @@
-🔥 Forest Fire Risk Prediction Web App
-A machine learning web application that predicts the risk of forest fires based on real-time environmental conditions such as temperature, humidity, wind speed, and other key fire indices.
+# 🔥 Forest Fire Risk Prediction Web App
 
-🚀 Built with Flask, scikit-learn, and deployed on Render, this project provides a clean, interactive web interface to forecast fire risks and support proactive environmental monitoring.
+A **machine learning web application** that predicts the **risk of forest fires**...
 
-🧠 Model Overview
-Algorithm: Linear Regression
+---
 
-Preprocessing: StandardScaler
+## 🧠 Model Overview
 
-Libraries: scikit-learn, numpy, pandas, flask, gunicorn
+**Algorithm**: Linear Regression  
+**Preprocessing**: StandardScaler  
+**Libraries**: scikit-learn, numpy, pandas, flask, gunicorn
 
-🌲 Input Features
-This app takes the following 9 environmental parameters as input:
+---
 
-🌡️ Temperature (°C)
+## 🌲 Input Features
 
-💧 Relative Humidity (%)
+This app takes the following **9 environmental parameters** as input:
 
-💨 Wind Speed (km/h)
+1. 🌡️ **Temperature (°C)**
+2. 💧 **Relative Humidity (%)**
+3. 💨 **Wind Speed (km/h)**
+4. 🌧️ **Rainfall (mm)**
+5. 🔥 **FFMC** - Fine Fuel Moisture Code
+6. 🪵 **DMC** - Duff Moisture Code
+7. 🌾 **DC** - Drought Code
+8. 🌬️ **ISI** - Initial Spread Index
+9. 🌿 **BUI** - Build-Up Index
 
-🌧️ Rainfall (mm)
+---
 
-🔥 FFMC - Fine Fuel Moisture Code
+## ✨ Features
 
-🪵 DMC - Duff Moisture Code
+- 🔍 Predict **forest fire risk** based on 9 input features
+- 🧠 **Pre-trained ML model** using Linear Regression
+- 🌐 Web interface built with **Flask**
+- 🎨 Responsive frontend using **HTML + CSS**
+- ☁️ **Deployed on Render** for easy access
 
-🌾 DC - Drought Code
+---
 
-🌬️ ISI - Initial Spread Index
+## 🛠️ Tech Stack
 
-🌿 BUI - Build-Up Index
+- **Backend**: Flask, Python
+- **Machine Learning**: Scikit-learn, Pandas, Numpy
+- **Frontend**: HTML, CSS
+- **Deployment**: Render, Gunicorn
 
-✨ Features
-🔍 Predict forest fire risk based on 9 input features
+---
 
-🧠 Pre-trained ML model using Linear Regression
+## 🌱 Future Improvements
 
-🌐 Web interface built with Flask
+- 🔐 Add **user login & authentication**
+- 📊 Visual fire risk levels (**Low / Medium / High**)
+- 🗺️ Integrate **map-based display** of forest zones
+- 💡 Improve prediction accuracy with advanced ML models
 
-🎨 Responsive frontend using HTML + CSS
+---
 
-☁️ Deployed on Render for easy access
+## 🔗 Demo
 
-🛠️ Tech Stack
-Backend: Flask, Python
-
-Machine Learning: Scikit-learn, Pandas, Numpy
-
-Frontend: HTML, CSS
-
-Deployment: Render, Gunicorn
-
-🌱 Future Improvements
-🔐 Add user login & authentication
-
-📊 Visual fire risk levels (Low / Medium / High)
-
-🗺️ Integrate map-based display of forest zones
-
-💡 Improve prediction accuracy with advanced ML models
+🚀 [**Live App on Render**](#) *(Add your actual Render deployment link)*
 
 
 
