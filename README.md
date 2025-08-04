@@ -56,9 +56,4 @@ This app takes the following **9 environmental parameters** as input:
 
 ---
 
-## 🔗 Demo
-
-🚀 [**Live App on Render**](#) *(Add your actual Render deployment link)*
-
-
 
